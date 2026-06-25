@@ -1,13 +1,19 @@
+```md
 <div align="center">
 
 # Hi 👋 I'm Ahamed R
 
 ### 🚀 Founder & Full Stack Developer at ZonPay Technologies
 
-Building Modern ERP • Finance SaaS • POS • APIs • Cloud Applications
+Building Scalable Enterprise Software • ASP.NET Core • Node.js • PostgreSQL
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ASP.NET+Core+Developer;Node.js+Developer;Building+Finance+SaaS;Building+Enterprise+ERP+Solutions;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;ASP.NET+Core+Developer;Enterprise+Software+Engineer;Finance+SaaS+Architect;ERP+Solutions+Builder;Always+Learning+New+Technologies" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=zonpay&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/zonpay?label=Followers&style=flat" />
 </p>
 
 </div>
@@ -16,31 +22,23 @@ Building Modern ERP • Finance SaaS • POS • APIs • Cloud Applications
 
 # 👨‍💻 About Me
 
-💼 Founder of **ZonPay Technologies**
-
-🏗️ Building Enterprise Software Solutions
-
-💳 Finance SaaS Developer
-
-🏢 ERP System Developer
-
-⚡ Passionate about Clean Architecture & Scalable Applications
-
-📍 Tamil Nadu, India
+- 💼 Founder of **ZonPay Technologies**
+- 🚀 Full Stack Developer specializing in **ASP.NET Core**, **Node.js**, and **PostgreSQL**
+- 🏗️ Building secure and scalable **Enterprise Software**
+- 💳 Developing **Finance SaaS Platforms**
+- 🏢 Creating **ERP & POS Solutions**
+- ⚡ Passionate about **Clean Architecture**, **Performance**, and **Cloud Technologies**
+- 📍 Tamil Nadu, India
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Current Focus
 
-✅ ZonPay ERP
-
-✅ ZonPay Finance SaaS
-
-✅ ZonPay License Manager
-
-✅ WAPI
-
-✅ Enterprise Backend APIs
+- ✅ Enterprise ERP Platform
+- ✅ Multi-Tenant Finance SaaS
+- ✅ License Management Platform
+- ✅ REST APIs & Integrations
+- ✅ Cloud-Native Application Development
 
 ---
 
@@ -76,22 +74,21 @@ Building Modern ERP • Finance SaaS • POS • APIs • Cloud Applications
 
 | Project | Description |
 |---------|-------------|
-| 🏢 ZonPay ERP | Enterprise ERP Solution |
-| 💳 Finance SaaS | Multi-Tenant Finance Platform |
-| 🔐 License Manager | Software License Management |
-| 📱 POS Billing | Billing & Inventory System |
-| ⚙️ WAPI | WhatsApp API Platform |
+| 🏢 ZonPay ERP | Enterprise Resource Planning Platform |
+| 💳 Finance SaaS | Multi-Tenant Finance Management Solution |
+| 🔐 License Manager | Secure Software Licensing Platform |
+| 📱 POS Billing | Billing & Inventory Management |
+| ⚙️ Enterprise APIs | REST APIs & Business Integrations |
+
+> **Note:** Some projects are commercial software and are not publicly available.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=zonpay&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonpay&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -99,9 +96,7 @@ Building Modern ERP • Finance SaaS • POS • APIs • Cloud Applications
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=zonpay&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -109,9 +104,7 @@ Building Modern ERP • Finance SaaS • POS • APIs • Cloud Applications
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zonpay&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -119,20 +112,16 @@ Building Modern ERP • Finance SaaS • POS • APIs • Cloud Applications
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=zonpay&theme=darkhub&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
-🌍 Website: https://zonpay.in
-
-🏢 Company: ZonPay Technologies
-
-📧 Email: contact@zonpay.in
+- 🌍 Website: https://zonpay.in
+- 🏢 Company: ZonPay Technologies
+- 📧 Email: contact@zonpay.in
 
 ---
 
@@ -140,6 +129,7 @@ Building Modern ERP • Finance SaaS • POS • APIs • Cloud Applications
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building software that powers businesses."*
+**Building reliable software that helps businesses grow.**
 
 </div>
+```
